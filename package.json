@@ -1,0 +1,21 @@
+{
+  "name": "number-set-compressor",
+  "version": "1.0.0",
+  "description": "Compact serialization for sets of integers 1-300",
+  "main": "src/codec.js",
+  "type": "module",
+  "scripts": {
+    "test": "node src/tests.js"
+  },
+  "keywords": [
+    "serialization",
+    "compression",
+    "bitmask"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
